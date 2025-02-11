@@ -1,0 +1,1 @@
+Remove database queries for authentication (major) - Implemented a new feature to enhance database queries.
