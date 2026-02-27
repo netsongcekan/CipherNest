@@ -1,6 +1,6 @@
-# CipherNest 🔐
+# CipherNeston 🔐
 
-CipherNest is a lightweight Python cryptography toolkit that provides:
+CipherNeston is a lightweight Python cryptography toolkit that provides:
 
 - Secure symmetric encryption (Fernet / AES)
 - SHA-256 and SHA-512 hashing
@@ -9,4 +9,4 @@ CipherNest is a lightweight Python cryptography toolkit that provides:
 ## Installation
 
 ```bash
-pip install CipherNest
+pip install **CipherNest**
